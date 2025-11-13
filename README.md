@@ -32,6 +32,8 @@ E. 安装后为免费版高级后台，具有基本功能
 
 F. 请使用 Win10 或 Win11 电脑运行本程序
 
+ZTE F30APRO F30BPRO F31 F31PRO F32PRO MF935 MF936 U10L U10S U10SPRO K10
+
 ==========================================================================
 
 ==========================================================================
@@ -65,5 +67,7 @@ When activating, please insert a SIM card or activate the built-in eSIM for inte
 Devices that have already been authorized can simply click "Verify Online."
 
 F. Please use a Win10 or Win11 computer to run this program.
+
+ZTE F30APRO F30BPRO F31 F31PRO F32PRO MF935 MF936 U10L U10S U10SPRO K10
 
 ==========================================================================
