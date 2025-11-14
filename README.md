@@ -48,7 +48,7 @@ Full version feature demo page: https://zwa.mWiFi.icu/zwa/
 
 Usage Instructions:
 
-A. Please go to https://zwa.mWiFi.icu/zwa/ and download the corresponding zwa_installer based on your device model. 
+A. Please download the corresponding zwa_installer based on your device model. 
 
 B. For battery-powered devices, connect them to the computer via USB cable after powering on. For non-battery devices, plug the USB directly into the computer.
 
