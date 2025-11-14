@@ -14,7 +14,7 @@ ZTE_WebAdmin (ZWA)
 
 使用方法：
 
-A. 请前往 https://zwa.mWiFi.icu/zwa/ 根据你的设备型号下载相应的 zwa_installer 安装出程序后放入当前目录
+A. 请根据你的设备型号下载相应的 zwa_installer 安装程序
 
 B. 电池机开机后通过USB线连接电脑，非电池机USB直插电脑
 
@@ -48,7 +48,7 @@ Full version feature demo page: https://zwa.mWiFi.icu/zwa/
 
 Usage Instructions:
 
-A. Please go to https://zwa.mWiFi.icu/zwa/ and download the corresponding zwa_installer based on your device model. After downloading, place it in the current directory.
+A. Please go to https://zwa.mWiFi.icu/zwa/ and download the corresponding zwa_installer based on your device model. 
 
 B. For battery-powered devices, connect them to the computer via USB cable after powering on. For non-battery devices, plug the USB directly into the computer.
 
